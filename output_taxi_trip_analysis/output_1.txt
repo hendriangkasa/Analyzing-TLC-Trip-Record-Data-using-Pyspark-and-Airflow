@@ -1,0 +1,1 @@
+Number of taxi trips on February 15: 34814
